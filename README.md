@@ -1,6 +1,6 @@
 To run the project follow this steps:
 
-step1. download filles, open cmd, and type - cd desktop , cd dev , pip install vitualenv , virtualenv venv
+step1. download filles, open cmd, and type - cd desktop , cd dev(folder were you can download filles) , pip install vitualenv , virtualenv venv
 
 step2. venv\Scripts\activate
 
